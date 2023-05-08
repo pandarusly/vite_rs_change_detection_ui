@@ -1,0 +1,35 @@
+{
+    "detection_api": "http://127.0.0.1:5000/api/changeDete",
+    "url": {
+        "xiogan1": "http://localhost:5000/get_tiles_tsm",
+        "xiogan2": "http://127.0.0.1:2323/xiongOSM_8_map_tiles"
+    },
+    "model_name": "fp16_xiongan4class_pdacn_80k_mmtrace_512x512",
+    "rectangle_name": "xiogan",
+    "rectangle": {
+        "xiogan": [
+            115.8188774369999976,
+            39.1051306299999979,
+            115.9597454369999951,
+            38.9934226299999978
+        ],
+        "liuqiao1": [
+            116.62499,
+            33.96855,
+            116.72009,
+            33.88213
+        ],
+        "renlou": [
+            116.69620,
+            33.54215,
+            116.80025,
+            33.41459
+        ],
+        "mengzhuang": [
+            116.94396,
+            34.1839599,
+            117.015,
+            34.107055
+        ]
+    }
+}
